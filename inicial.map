@@ -1,0 +1,48 @@
+[nivel]
+origen=ejemplo
+mapa=.............
+     ._____.......
+     .####...##@@@
+     ____________
+
+[@]
+tipo = agua
+fondo = 2, 24
+pared = no
+bloqueo = si
+dam=si
+
+[#]
+tipo = pasto
+fondo = 2, 4
+pared = no
+bloqueo = no
+dam=no
+
+[.]
+tipo = muro
+fondo = 1, 15
+pared = si
+bloqueo = si
+dam=no
+
+
+[_]
+tipo = tierra
+fondo = 2, 13
+pared = no
+bloqueo = no
+dam=no
+
+[9]
+tipo = fuego
+fondo = 3, 13
+pared = no
+bloqueo = no
+dam=si
+
+       
+
+
+
+
